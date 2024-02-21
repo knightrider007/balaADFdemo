@@ -4,6 +4,9 @@
 	"parameters": {
 		"factoryName": {
 			"value": "bala-test"
+		},
+		"AzureBlobStorage1_connectionString": {
+			"value": ""
 		}
 	}
 }
