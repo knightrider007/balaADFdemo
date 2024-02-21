@@ -1,0 +1,9 @@
+{
+	"name": "bala-test",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "58f37d35-977a-4dfa-97e6-907f31abdd63",
+		"tenantId": "80145f58-b676-4d4c-a66a-636c8766d1a2"
+	}
+}
